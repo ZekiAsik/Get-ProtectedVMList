@@ -1,5 +1,9 @@
-# Get-ProtectedVMList
-Returns a list of virtual machines protected by SRM
+This is a PowerShell function. Returns a list of virtual machines protected by SRM.<br>
+
+*Blog Post*<br>
+[List SRM Protected VMs with PowerCLI](http://vmkdaily.ghost.io/get-list-of-srm-protected-vms-with-powercli/)
+
+*Help Output*<br>
 
 ```
 NAME
